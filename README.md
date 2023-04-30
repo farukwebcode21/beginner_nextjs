@@ -36,3 +36,13 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Learning On Codevolution Link- [Learn Next.js](https://nextjs.org/learn) 
+
+1. Page base routing machanism-pages are associated with a route base on therir file name
+2. Nested routes -Nested folder structure, files will be automatically routed in the same way in the URL
+3. Dynamic routes - Can be created by adding square brackets to a page name
+4. Catch all routes -Add three dots inside square brackets to create a catch all route Helpfull when you want different URLs for the same page layout or even when yo're working with pages where some of the route parameters are optional
+5. Link component to navigate on click jof an element
+6. useRouter hook's router.push method to navigate programmatically nand Replace
+7. How to create a custom 404 page
